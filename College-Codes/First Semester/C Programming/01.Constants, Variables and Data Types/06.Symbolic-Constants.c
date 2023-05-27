@@ -19,4 +19,4 @@ int main()
     printf("\tArea of First Circle= %.2f sq. m", a1);
     printf("\n\tArea of First Circle= %.2f sq. m", a2);
     printf("\n\tArea of First Circle= %.2f sq. m", a3);
-}
+    return 0;
