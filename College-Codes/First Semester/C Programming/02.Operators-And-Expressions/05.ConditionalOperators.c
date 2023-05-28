@@ -18,6 +18,7 @@ int main()
         if expression1 appears as false then the value of expression3 is the value of conditional expression.
     */ 
    int larger=firstNumber>secondNumber?firstNumber:secondNumber;
+//    if firstNumber>secondNumber is true, then larger=firstNumber, else larger=secondNumber
    printf("Therefore, the larger number is: %d", larger);
    getch();
    return 0;
