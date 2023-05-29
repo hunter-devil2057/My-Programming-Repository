@@ -1,0 +1,22 @@
+Algorithm
+    1. Start
+    2. Read the number of point, say it be n.
+    3. Read the order of polynomial, say it be m.
+    4. Read the given data points, say it be x[i] and fx[i].
+    5. Calculate the required summation as below,
+        for i= 1 to 2m
+            for j= 0 to n-1
+                sx[i]=sx[i]+pow(x[j], i);
+            End for
+        End for
+        for i=0 to m
+            for j=0 to n-1
+                sxy[i]=y[j]*pow(x[j], i);
+            End for
+        End for
+    6. Construct R.H.S. matrix of order (m+1)*(m+1)
+    7. Construct L.H.S. matrix of order (m+1)*1
+    8. Solve for coefficients a0, a1, ....., am by using gauss elimination method.
+    9. Display the equation, 
+            y=a0+a1x+a2x^2+.....+amx^m
+    10. Terminate
