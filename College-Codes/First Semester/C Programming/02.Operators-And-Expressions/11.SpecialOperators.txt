@@ -10,6 +10,6 @@ Special Operators
         For Example:
             The statement
 			        value = (x=10, y=5, x+y);
-	            - first assigns the value 10 to x, then assigns 5 to y and finally assigns 15 (i.e. 10+5) to value.
+	            - This will first assigns the value 10 to x, then assigns 5 to y and finally assigns 15 (i.e. 10+5) to value.
         - Since comma operator has the lowest precedence of all operators, the parentheses are necessary.
 		
