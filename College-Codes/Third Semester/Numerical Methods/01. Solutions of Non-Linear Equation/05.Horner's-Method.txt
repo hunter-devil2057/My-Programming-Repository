@@ -1,0 +1,10 @@
+Algorithm
+    1. Start
+    2. Enter the degree of polynomial, say n.
+    3. Enter the value at which polynomial to be evaluated, x.
+    4. Initially, set, bn=an;
+    5. While, n>0
+            bn-1=an-1+bn*x
+    6. End While
+    7. Display the value of b0, which is the value of polynomial at x.
+    8. Terminate
