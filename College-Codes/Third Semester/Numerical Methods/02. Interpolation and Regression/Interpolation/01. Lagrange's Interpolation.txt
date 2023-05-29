@@ -1,0 +1,19 @@
+Algorithm
+1. Start
+2. Read the number of points, say n.
+3. Read the value at which value is needed, say it be x.
+4. Read the given data points.
+5. Calculate the values of Li as below:
+        for i=1 to n
+            for j= 1 to n
+                if(j!=i)
+                L[i]=L[i]*(x-x[j])/'
+                 End if
+            End for
+        End for
+6. Calculate the interpolated value of x as below.
+    for i = 1 to n
+        v=v+fx[i]*Lx[i];
+    End for
+7. Print the interpolated value v at x
+8. Terminate
