@@ -1,0 +1,15 @@
+Algorithm
+    1. Start
+    2. Input initial guess as, x0 and precision E.
+    3. Evaluate, f'(x) symbolically.
+    4. Use x0 to estimate the new value of the root x1 as, 
+            x1=x0-(f(x0)/f'(x0))
+    5. Find the absolute relative approximate error |Ea| as, 
+                |Ea|=|(x1-x0)/x1|;
+    6. Compare the absolute relative approximate error |Ea| with the pre-specified relative error tolerance, E
+            if (|Ea|>E)
+                x0=x1
+                go to step 3;
+            else
+                go to step 7
+    7. Terminate
