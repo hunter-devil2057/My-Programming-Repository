@@ -1,0 +1,26 @@
+Algorithm
+    1. Start
+    2. Read the number of points, say n.
+    3. Read the value at which interpolated value is needed, say it be x.
+    4. Read the given data points.
+    5. Calculate the first divided difference as,
+            for i = 0 to n-1
+                dd[i]=fx[i];
+            end for
+    6. Calcuate the second to nth divided differences as, 
+            for i=0 to n-1
+                for j=n-1 to i+1
+                    dd[j]=(dd[j]-dd[j-1])/(x[j]-x[j-1-i]);
+                end for
+            end for
+    7. Set v=0 and p=1
+    8. Calculate the interpoated value as, 
+            for i = 0 to n-1
+                for j = 0 to i - 1 
+                    p = p * ( x - xj);
+                end for
+            v=v+dd[i]*p;
+                Reset p-1
+            end for
+    9. Print the interpolated value v.
+    10. Terminate
