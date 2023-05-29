@@ -1,0 +1,14 @@
+Algorithm for Bissection Method
+1. Start
+2. Choose xl and xu as two guesses for the root such that f(xl)f(xu)<0 and stopping criterion E.
+3. Compute f(xl) and f(xu).
+4. Estimate the root, xm of the equation f(x)=0 as the mid-point between xl and xu as,
+        xm=(xl+xu)/2
+5. Now, check the following conditions, 
+    a. if f(xl)f(xm)=0, then the root is xm. Go to Step 8.
+    b. Else if f(xl)f(xm)<0, the root lies between xl and xm. Set, xu=xm.
+    c. Else if, f(xl)f(xm)>0, the root lies between xm and xu. Set, xl=xm.
+6. Find the absolute approximate relative error as, 
+        |E_ra|=|(xl-xu)/xu|
+7. If |Era|>E, then go to Step 3, else go to Step 8.
+8. Stop
