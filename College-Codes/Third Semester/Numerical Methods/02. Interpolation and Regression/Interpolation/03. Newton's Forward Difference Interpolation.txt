@@ -1,0 +1,27 @@
+Algorithm
+    1. Start
+    2. Read the number of data points, say it be n.
+    3. Read the values at whcih interpolated value is needed., say it be xp.
+    4. Read n data points, say x[i] and fx[i].
+    5. Set, h=x[1]-x[0] and s=(xp-x[0])/h;
+    6. Calculate the first forward differences as below, 
+            for i = 0 to n-1 
+                fd[i]=fx[i];
+            End for
+    7. Calculate the second to nth forward differences as below, 
+            for i=0 to n-1
+                for j=n-1 to i+1
+                    fd[j]=fd[j]-fd[j-1];
+                End for
+            End for
+    8. Set, v=fd[0] and set, p=1
+    9. Calculate the interpolated value as below,
+           for i = 1 to n-1
+                for k = 1 to i
+                    p=p*(s-k+1)
+                end for
+            v=v+(fd[i]*p/i!)
+            Reset p=1
+            end for
+    10. Print the interpolated value v at xp.
+    11. Terminate
