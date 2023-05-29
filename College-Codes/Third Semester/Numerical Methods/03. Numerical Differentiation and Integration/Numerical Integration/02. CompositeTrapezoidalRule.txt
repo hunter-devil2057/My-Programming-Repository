@@ -1,0 +1,15 @@
+Algorithm
+    1. Start
+    2. Read the value of lower and upper limit, say it be x0 and x1.
+    3. Calculate the values f(x0) and f(x1).
+    4. Calculate,
+            h=(x1-x0)/k
+    5. Set,
+            term=f(x0)+f(xn)
+    6. for i = 1 to k-1
+            term=term+2*f(x0+i*h);
+        end for
+    7. Calculate the value of integrtion by using formula,
+            v=(h*0.5)*term;
+    6. Display the value of integration as, "v",
+    7. Terminate
