@@ -7,7 +7,7 @@ int main()
     float remainder;
     printf("Enter First Integer:\n");
     scanf("%d", &firstNum);
-    printf("Enter First Integer:\n");
+    printf("Enter Second Integer:\n");
     scanf("%d", &secondNum);
     remainder=firstNum%secondNum;
     printf("The remainder is: %.2f" , remainder);
