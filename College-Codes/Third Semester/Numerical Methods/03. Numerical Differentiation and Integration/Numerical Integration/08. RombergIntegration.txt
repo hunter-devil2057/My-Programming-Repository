@@ -1,0 +1,20 @@
+Algorithm
+    1. Start
+    2. Read the value of lower and upper limit of integration, say it be x0 and xn.
+    3. Compute, 
+    4. Read p and q of required T(p, q).
+    5. Compute T(0, 0) by using formula, 
+            T[i][0]=(h/2)*(f(x0)+f(x1));
+    6. for i = 1 to p
+            T[i][0]=((T[i-1][0])/2)+((h/(2^i))*Summation of f(x0+(2k-1)*(h/(2^i)))); from k=1 to (2^(k-1))
+    7. for c = 1 to p
+            for k = 1 to c
+                m=c-k;
+                if(k<=q)
+                    T[m+k][k]=((4^k)*T[m+k][k-1]-T[m+k-1][k-1]/(4^(k-1)));
+                else
+                    break;
+            end for
+        end for
+    8. Display Romberg's Estimate of Integration as, T[p][q].
+    9. Terminate
