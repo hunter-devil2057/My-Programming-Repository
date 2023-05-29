@@ -3,10 +3,10 @@
 
 int main()
 {
-    int firstNum=57;
-    printf("First Default Number:%d", firstNum);
-    int secondNum=firstNum<<3;
-    printf("\nTherefore,\n\tSecond Number:%d", secondNum);
+    int num1=57;
+    printf("First Default Number:%d", num1);
+    int num2=num1<<3;
+    printf("\nTherefore,\n\tSecond Number:%d", num2);
     // left shift operation means such type of operation which causes the operand to be shifted to the left by some bit positions.
     /*
     Syntax of Left Shift Operations: operand<<n;
