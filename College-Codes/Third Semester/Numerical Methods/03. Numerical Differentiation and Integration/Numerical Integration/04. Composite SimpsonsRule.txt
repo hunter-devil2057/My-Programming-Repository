@@ -1,0 +1,20 @@
+Algorithm
+    1. Start
+    2. Read the values of loewr limit of integration and upper limit of integration, say it be x0 and xn.
+    3. Read the number of segments, say it be k.
+    4. Calculate,
+            h=(xn-x0)/k;
+    5. Set, 
+            term=term+4*(fx0+i*h);
+    6. for i = 1 to k-1
+            term=term+4*f(x0+i*h);
+            i=i+2;
+        end for
+    7. for i = 2 to k-2
+            term=term+2*f(x0+i*h);
+            i=i+2;
+        end for
+    8. Calculate the value of integration by using formula,
+            v=(h/3)*term;
+    9. Display the value of integration, say it be "v".
+    10. Terminate
