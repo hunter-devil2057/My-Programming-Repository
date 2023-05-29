@@ -1,0 +1,17 @@
+Algorithm
+    1. Start
+    2. Read the number of points, say it be n.
+    3. Read the given data points, say it be x[i] and y[i].
+    4. Find the summations of x, y, xy and x^2 as below.
+            for i = 0 to n-1
+                sx=sx+x[i];
+                sy=sy+y[i];
+                sxy=sxy+x[i]*y[i];
+                sx2=sx2+x[i][i];
+            End for
+    5. Calculate the values of parameters as below:
+            b=((n*sxy)-(sx*sy))/((n*sx2)-(sx*sx)); and 
+            a=(sy/n)-(b*sx/n);
+    6. Display the equation,
+                    ax+b
+    7. Terminate
