@@ -1,0 +1,15 @@
+Special Operators
+    - C supports some special operators such as comma operator (,), sizeof operator, pointer operators (& and *) and member selection operators (. and ->).
+    - We just discussed only about comma and sizeof operators here. 
+
+    1. Comma operator
+        - used to link related operations together.
+        - A comma-linked list of expressions are evaluated from:
+            - left-to-right
+            - and the value of right-most expression is the value of the combined expression.
+        For Example:
+            The statement
+			        value = (x=10, y=5, x+y);
+	            - first assigns the value 10 to x, then assigns 5 to y and finally assigns 15 (i.e. 10+5) to value.
+        - Since comma operator has the lowest precedence of all operators, the parentheses are necessary.
+		
