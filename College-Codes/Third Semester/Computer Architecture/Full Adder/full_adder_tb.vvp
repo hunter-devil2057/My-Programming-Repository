@@ -1,0 +1,57 @@
+#! /c/iverilog/bin/vvp
+:ivl_version "0.9.7 " "(v0_9_7)";
+:vpi_time_precision + 0;
+:vpi_module "system";
+:vpi_module "v2005_math";
+:vpi_module "va_math";
+S_008874B0 .scope module, "full_adder_tb" "full_adder_tb" 2 2;
+ .timescale 0 0;
+v00923C00_0 .var "a", 0 0;
+v00923C58_0 .var "b", 0 0;
+v0088E8F0_0 .var "cin", 0 0;
+v0088E420_0 .net "cout", 0 0, L_0088EBA0; 1 drivers
+v0088E4D0_0 .net "sum", 0 0, L_00923CE8; 1 drivers
+S_00886FE8 .scope module, "full_adder1" "full_adder" 2 7, 3 3, S_008874B0;
+ .timescale 0 0;
+L_00884768 .functor XOR 1, v00923C00_0, v00923C58_0, C4<0>, C4<0>;
+L_00923CE8 .functor XOR 1, L_00884768, v0088E8F0_0, C4<0>, C4<0>;
+L_0088EA60 .functor AND 1, v00923C00_0, v00923C58_0, C4<1>, C4<1>;
+L_0088EA98 .functor XOR 1, v00923C00_0, v00923C58_0, C4<0>, C4<0>;
+L_00923CB0 .functor AND 1, L_0088EA98, v0088E8F0_0, C4<1>, C4<1>;
+L_0088EBA0 .functor OR 1, L_0088EA60, L_00923CB0, C4<0>, C4<0>;
+v00923F68_0 .net *"_s0", 0 0, L_00884768; 1 drivers
+v009236D0_0 .net *"_s4", 0 0, L_0088EA60; 1 drivers
+v00883258_0 .net *"_s6", 0 0, L_0088EA98; 1 drivers
+v008832B0_0 .net *"_s8", 0 0, L_00923CB0; 1 drivers
+v00883308_0 .net "a", 0 0, v00923C00_0; 1 drivers
+v00884660_0 .net "b", 0 0, v00923C58_0; 1 drivers
+v008846B8_0 .net "cin", 0 0, v0088E8F0_0; 1 drivers
+v00884710_0 .alias "cout", 0 0, v0088E420_0;
+v00923BA8_0 .alias "sum", 0 0, v0088E4D0_0;
+    .scope S_008874B0;
+T_0 ;
+    %vpi_call 2 11 "$dumpfile", "full_adder.vcd";
+    %vpi_call 2 12 "$dumpvars", 1'sb0, S_008874B0;
+    %set/v v00923C00_0, 0, 1;
+    %set/v v00923C58_0, 0, 1;
+    %set/v v0088E8F0_0, 0, 1;
+    %delay 10, 0;
+    %set/v v00923C00_0, 0, 1;
+    %set/v v00923C58_0, 1, 1;
+    %set/v v0088E8F0_0, 1, 1;
+    %delay 10, 0;
+    %set/v v00923C00_0, 1, 1;
+    %set/v v00923C58_0, 0, 1;
+    %set/v v0088E8F0_0, 0, 1;
+    %delay 10, 0;
+    %set/v v00923C00_0, 1, 1;
+    %set/v v00923C58_0, 1, 1;
+    %set/v v0088E8F0_0, 1, 1;
+    %end;
+    .thread T_0;
+# The file index is used to find the file name in the following table.
+:file_names 4;
+    "N/A";
+    "<interactive>";
+    "full_adder_tb.v";
+    "./full_adder.v";
