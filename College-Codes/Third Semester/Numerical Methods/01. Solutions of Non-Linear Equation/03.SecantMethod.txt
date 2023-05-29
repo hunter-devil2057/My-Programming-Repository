@@ -1,0 +1,17 @@
+Algorithm
+    1. Start
+    2. Input two initial guess (say x0 and x1) and precision. Say E
+    3. Evaluate, f(x0) and f(x1).
+    4. Estimate the new values of the root x2 as, 
+            x2=x1-(f(x1)(x1-x0))/(f(x1)-f(x0))
+    5. Find the absolute relative approximate error, |Ea| as,
+            |Ea|=|(x2-x1)/x2|
+    6. Compare the absolute relative approximate error, |Ea| with the pre-specified relative error tolerance, E.
+        if |Ea|>E
+            x0=x1
+            f(x0)=f(x1)
+            x21=x2;
+            go to step 3, 
+        else
+            go to step 7
+    7. Terminate
