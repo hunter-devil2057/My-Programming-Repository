@@ -1,0 +1,10 @@
+Algorithm
+    1. Start
+    2. Read the values at which derivative is needed, say it be x.
+    3. Read the interval gap, say it be h.
+    4. Calculate, 
+            f(xi) & f(xi+h)
+    5. Calculate, 
+            d=f'(xi)=(f(xi+h)-f(xi-h))/2h;
+    6. Display the value of derivative.
+    7. Terminate
