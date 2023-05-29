@@ -1,0 +1,17 @@
+Algorithm
+    1. Start
+    2. Read the number of data points, say it be n.
+    3. Read the given data points, say it be x[i], y[i].
+    4. Calculate the needed summations as below:
+            for i= 0 to n-1
+                sx=sx+x[i];
+                slgy=slgy+logy[i];
+                sxy=sxy+x[i]*logy[i];
+                sx2=sx2+x[i]*x[i];
+            end for
+    5. Calculate the values of b and a by using following formulae.
+                b=((n*sxy)-(sx*slgy))/((n*sx2)-(sx*sx));
+                r=(slgy/n)-(b*sx/n)
+                a=e^r
+    6. Display the equation a.e^(bx)
+    7. Terminate
