@@ -1,0 +1,22 @@
+Algorithm
+    1. Start
+    2. Read the number of data points, say n.
+    3. Read the point at which value is required, say it be xp.
+    4. Read n data points, say x[i] and fx[i].
+    5. Calculate the values of h and b as below, 
+            for i=0 to n-1
+                h[i]=x[i+1]-x[i];
+                b[i]=((fx[i+1]-fx[i])/h[i]);
+                end for
+    6. Calculate the coefficients, u and v as below,
+                for i = 1 to n-1
+                    u[i]=2*(h[i-1]+h[i]);
+                    v[i]=6*(b[i]-b[i-1]);
+                end for
+    7. Construct matrix of order (n-1)x(n-1) by using values computed in step 5 & 6.
+    8. Read RHS vector.
+    9. Use Gauss-ELimination Method, to find the value of e_i, Where, i = 1, 2, 3, 4, ...., n-1
+    10. Calculate the interpolated value at xp (xp lies between x_i and x_(i+1)) by using following formula.
+        v=(e[i+1]/6*h[i])(xp-x[i]^3)+e[i]*(x[i+1]-xp)^3/6*h[i]+((fx[i+1]/h[i])-(e[i+1]*h[i])/6)
+    11. Print the intepolated value, v.
+    12. Terminate.
