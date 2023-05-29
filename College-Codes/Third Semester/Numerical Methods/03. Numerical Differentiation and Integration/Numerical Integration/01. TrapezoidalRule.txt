@@ -1,0 +1,10 @@
+Algorithm
+    1. Start
+    2. Read the value of lower and upper limit, say it be x0 and x1.
+    3. Calculate the values f(x0) and f(x1).
+    4. Calculate,
+            h=(x1-x0)
+    5. Calculate the value of integrtion by using formulae.
+            v=h*((f(x0))+(f(x1)))/2;
+    6. Display the value of integration, "v",
+    7. Terminate
