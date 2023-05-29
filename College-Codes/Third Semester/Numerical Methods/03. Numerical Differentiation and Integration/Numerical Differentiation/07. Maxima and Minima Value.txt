@@ -1,0 +1,26 @@
+Algorithm
+    1. Start
+    2. Read the number of dat points, say it be n.
+    3. Read n data points, say x[i] and fx[i].
+    4. Set, h=x[1]-x[0];
+    5. Compute forward differences as below.
+        for i = 0 to n-1
+            fd[i]=fx[i];
+        end for
+        for i = 0 to n-1
+            for j = n-1 to i+1
+                fd[j]=fd[j]-fd[j-1];
+            end for
+        end for
+    6. Calculate, 
+            a=0.5*fd[3];
+            b=fd[2]-fd[3];
+            c=fd[1]-(0.5*fd[2])+((1/3)*fd[3]);
+    7. Calculate, 
+            s1=(-b+sqrt((pow(b, 2)-4*a*c)))/(2*a);
+            s2=(-b-sqrt((pow(b, 2)-4*a*c)))/(2*a);
+    8. Calculate, 
+            x1=x[0]+s1*h;
+            x2=x[0]+s2*h;
+    9. Find the point of maxima and minima as below.
+    10. Terminate
