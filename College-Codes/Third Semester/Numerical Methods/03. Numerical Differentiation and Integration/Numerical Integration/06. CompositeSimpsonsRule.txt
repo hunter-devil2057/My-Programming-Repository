@@ -1,0 +1,16 @@
+Algorithm (Composite Simpson's 3/8 Rule)
+    1. Start
+    2. Read the values of lower and upper limit of integration, say it be x0 and xn.
+    3. Read the number of segments, say it be k.
+    4. Calculate, 
+            h=(xn-x0)/k
+    5. Set, 
+            term=f(x0)+f(xn)
+    6. for i = 1 to k-1
+            if((i mod 2) != 0)
+                term=term+3*f(x0+i*h);
+            else
+                term=term+2*f(x0+i*h);
+       end for
+    7. Calculate the values of integration by using the formula, 
+        v=(3/8)8h*term;
