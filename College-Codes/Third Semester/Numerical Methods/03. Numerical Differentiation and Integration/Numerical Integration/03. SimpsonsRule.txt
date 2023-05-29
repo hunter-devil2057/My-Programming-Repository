@@ -1,0 +1,11 @@
+Algorithm
+    1. Start
+    2. Read the values of lower and upper limit, say it be x0 and x2
+    3. Set, n=2
+    4. h=(x2-x0)/n;
+    5. x1=x0+h;
+    6. Calculate the values of f(x0), f(x1) and f(x2).
+    7. Calculate the value of integration by using formula,
+            v=(h/3)*(f(x0)+f(x2)+4*f(x1));
+    8. Display the value of integration as, "v".
+    9. Terminate
