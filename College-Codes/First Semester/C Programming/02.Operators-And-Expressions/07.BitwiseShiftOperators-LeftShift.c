@@ -12,7 +12,7 @@ int main()
     Syntax of Left Shift Operations: operand<<n;
     Note:
         - Bits in the operand are shifted to the left by n positions. 
-        - The leftmost n bits in the original bit pattern will be lost and the rightmost n bits empty positions will be filled with OS.
+        - The leftmost n bits in the original bit pattern will be lost and the rightmost n bits empty positions will be filled with 0's.
     */ 
    getch();
    return 0;
