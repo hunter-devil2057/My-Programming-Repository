@@ -1,0 +1,30 @@
+Algorithm
+    1. Start
+    2. Read the number of data points, say it be n.
+    3. Read the value at derivative is needed, say it be xp.
+    4. Read n data points, say it be x[i] and fx[i].
+    5. Set, h=(x[1]-x[0]) and s=(xp-x[n-1])/h;
+    6. Compute backward differences as below:
+        for i = 0 to n-1
+            bd[i]=fx[i];
+        end for
+        for i =n-1 to 1
+            for j = 0 to i-1
+                bd[j]=bd[j+1]-bd[j];
+            end for
+        end for
+    7. Compute value of derivative as below:
+        Set, val=bd[n-2]
+        Set, prevterm=1;
+        for i=2 to n-1
+            term1=1;
+            for k=2 to i
+                term1=term1*(s+k-2);
+            end for
+            term2=term2+(s+i-1)*prevterm;
+            prevterm=term1+term2;
+            val=val+(bd[n-i-1]*(term1+term2))/i!;
+        end for
+        val=val/h;
+    8. Print the value of first derivative (val).
+    9. Terminate
