@@ -1,0 +1,28 @@
+Algorithm
+    1. Start
+    2. Read the Dimension of System of Equation, say it be n.
+    3. Read the Coefficient of Matrix row-wise.
+    4. Read the R.H.S. Vector.
+    5. Perform forward eliminatino as below,
+        for k=1 to n-1
+            pivot=a[k][k];
+            if(pivot<0.000001)
+                Display the message as "Method Failed"
+            else
+                for i=k+1 to n
+                term=a[i][k]/pivot;
+                Multiply row k of coefficient matrix by "term" and subtract it from row i.
+                Multiply row k of B matrix by "term" and subtract it from row 1.
+                End for
+        End for
+    6. Perform Back Substitution Method as below.
+        x[n]=b[n]/a[n][n];
+        for i=n-1 to 1
+            sum = 0;
+            for j= i+1 to n
+                sum=sum+a[i][j]*x[j]
+            end for
+            x[i]=(b[i]-sum)/a[i][i]
+        End for
+    7. Display solution vector. 
+    8. Terminate
