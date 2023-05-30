@@ -1,0 +1,16 @@
+Algorithm
+    1. Start
+    2. Read the values of Lower and Upper Limit of Integration, say it be a and b.
+    3. Set,
+            c1=1,
+            c2=1,
+            z1=-0.57735,
+            z2=0.57735
+    4. Compute,
+            x1=((b-a)/2)*z1+((b-a)/2);
+    5. Compute, 
+            x2=((b-a)/2)*z2+((b-a)/2);
+    6. Compute, 
+            v=((b-a)/2)*((f(x1))+(f(x2)));
+    7. Display the value of integral as, v.
+    8. Terminate
