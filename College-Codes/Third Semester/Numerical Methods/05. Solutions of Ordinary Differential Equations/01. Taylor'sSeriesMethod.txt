@@ -1,0 +1,8 @@
+Algorithm for Taylor's Series
+    1. Start
+    2. Read the initial values, say x_0 & y_0.
+    3. Read the value at which function to be evaluated, say it be x.
+    4. Compute value of y, y' and y''.......
+    5. Compute v=y(x)=y(0)+(x-x_0)y'+(x-x0)^2y''/2!+(x-x_0)^3y'''/3!..............
+    6. Display functional value at x, i.e, v.
+    7. Terminate
