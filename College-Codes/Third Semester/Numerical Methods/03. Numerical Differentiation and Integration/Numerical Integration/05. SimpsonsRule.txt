@@ -1,0 +1,13 @@
+Algorithm (Simpson's 3/8 Rule)
+    1. Start
+    2. Read the values of lower and upper limit of integration, say it be x0 and x3.
+    3. Set, n=3
+    4. Set, 
+            h=(x3-x0)/n;
+    5. Set, 
+            x1=x0+h;
+            x2=x0+2*h;
+    6. Calculate the values of f(x0), f(x1), f(x2) and f(x3).
+    7. Calculate the value of integration by using formula,
+    8. Display the value of integration, say it be "v".
+    9. Terminate
