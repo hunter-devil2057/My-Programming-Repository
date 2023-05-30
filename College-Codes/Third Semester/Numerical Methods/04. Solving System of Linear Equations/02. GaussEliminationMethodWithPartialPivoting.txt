@@ -1,0 +1,28 @@
+Algorithm
+    1. Start
+    2. Read the Dimension of System of Equations, say it be n.
+    3. Read the Coefficient Matrix row-wise.
+    4. Read R.H.S. vector.
+    5. Perform the forward elimination as below.
+        for k= 1 to n-1
+            Find the largest of a[p][k] for p=k, k+1, .... , n
+            Swap row k and row p in coefficient matrix
+            Swap row k and row p in R.H.S. vector
+                    pivot=a[k][k];
+            for i=k+1 to n
+                term-(a[i][k]/pivot);
+                Multiply row k of coefficient matrix by "term" and subtract it from row i
+                Multiply row k of B matrix by "term" and subtract it from row i
+            End for
+        End for
+    6. Perform back substitution as below.
+        x[n]=b[n]/a[n][n];
+        for i=n-1 to 1
+            sum=0;
+            for j=i+1 to n
+                sum=sum+a[i][j]*x[j];
+            End for
+            x[i]=(b[i]-sum)/a[i][i]
+        End for 
+    7. Display solution vector. 
+    8. Terminate
