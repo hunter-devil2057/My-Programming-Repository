@@ -1,0 +1,16 @@
+01. Write a C++ program to check whether the given number is armstrong number or not.
+02. Using recursion method, solve tower of Hanoi in C++.
+03. Student 
+-name:string
+-age:int
+-total marks:double
+________________________________________________________
++student(... ,......)
++getPercent():double
++showResult():void
+
+Output:
+Followings are the student details:
+Name: ABC
+Age: 10
+Percent: 75.23%
