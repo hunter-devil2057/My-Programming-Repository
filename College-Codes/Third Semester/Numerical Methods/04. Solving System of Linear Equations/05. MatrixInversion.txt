@@ -1,0 +1,21 @@
+Algorithm
+    1. Start
+    2. Read the Dimension of Matrix, say it be n.
+    3. Read the Coefficient Matrix by Identity Matrix.
+    4. Augment the coefficient matrix by identity matrix.
+    5. Perform the Elimination Operation as below.
+        for k = 1 to n
+            pivot=a[k][k];
+        for p = 1 to 2n         //Normalize row k
+            a[k][p]=a[k][p]/pivot;
+        end for
+        for i = 1 to n 
+            term = a[i][k];
+            if(i!=k)
+            {
+                Multiply row k by "term: and subtract it from row i
+            }
+        end for
+        end for
+    6. Display the inverse matrix which is second half of augmented matrix.
+    7. Terminate
