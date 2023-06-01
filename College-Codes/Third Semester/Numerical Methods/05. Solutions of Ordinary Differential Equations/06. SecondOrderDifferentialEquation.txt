@@ -1,0 +1,17 @@
+
+    1. Start
+    2. Read the initial values of x & y, say x0 and y0.
+    3. Read the values at which functional values is required, say it be xp.
+    4. Read the step size, say h.
+    5. Reduce the equation into system of differential equations.
+    6. Set, x=x0 and y=y0;
+    7. Compute value of y as below:
+            for x=x0 to xp      //Using Euler's Method
+                ny=y+f(x,y,z)*h
+                nz=z+f(x,y,z)*h
+                y=ny
+                z=nz
+                x=x+h
+            end for
+    8. Display the functional value, y.
+    9. Terminate
