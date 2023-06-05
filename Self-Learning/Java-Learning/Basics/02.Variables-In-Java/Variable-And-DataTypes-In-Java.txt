@@ -1,0 +1,30 @@
+    Variables in Java: placeholder (container) for storing a constant values or characters. 
+    Data Types - 8 primitive data types
+    DataType           Size             Primitive/Reference                 Value
+ (*)boolean             1                   primitive                true or false
+    byte                1                   primitive                -128 ot 127
+    short               2                   primitive                -32,768 to 32,767
+ (*)int                 4                   primitive                -2 billion to 2 billion
+    long                8                   primitive                -9 quintillion to 9 quintillion
+    float               4                   primitive                fractional number up to 6-7 digits
+                                                                        Eg: 3.131592
+ (*)double              8                   primitive                fractional number up to 15 digits
+                                                                        Eg: 3.13159265358793
+ (*)char                2                   primitive                single character/letter/ASCII Values
+                                                                        Eg: 'f', 'a', 'm'
+ (*)string            varies                reference                a sequence of characters, words, sentences......
+                                                                        Eg: "Hello, World!"
+
+Differences between Primitive & Reference 
+    Primitive Data Types (Fixed/Reserved Data Types)
+        - 8 types (boolean, bytes, short, int, long, float, double, char)
+        - stores only data.
+        - only holds 1 value
+        - use of less memory 
+        - faster
+    Reference Data Types (User-Defined Data Types)
+        - unlimited (string is also an reference data types.)
+        - stores an address.
+        - capability to holds more than 1 values.
+        - use of more memory
+        - slower
