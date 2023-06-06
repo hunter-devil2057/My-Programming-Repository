@@ -1,0 +1,17 @@
+Algorithm
+    1. Start
+    2. Read the Dimension of System of Equations, say it be n.
+    3. Read the Coefficients of Argumented Matrix row-wise.
+    4. Perform the row operations to convert L.H.S. of the augmented matrix into identity matrix.
+        for k = 1 to n
+            pivot=a[k][k];
+            for p = 1 to n+1            //Normalize row k
+                a[k][p]=a[k][p]/pivot;
+            for i = 1 to n
+                term = a[i][k];
+                if(i!=k)
+                    Multiply row k by "term" and subtract it from row i.
+            End for 
+            End for
+    5. Display solution vector which is last column of augmented matrix.
+    6. Terminate.
