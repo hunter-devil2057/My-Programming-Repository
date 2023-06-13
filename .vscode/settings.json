@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "conio.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c"
+    },
+    "java.project.sourcePaths": [
+        "Self-Learning/Java-Learning/Basics/06.Swapping-Two-Strings"
+    ]
+}
