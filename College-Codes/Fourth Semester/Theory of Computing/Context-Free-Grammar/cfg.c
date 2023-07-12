@@ -74,7 +74,7 @@ void main()
     {
         for(l=0;l<10;l++)
             str[0]=NULL;
-        printf("ENTER ANY STRING (0 for EXIT):");
+        printf("\nEnter Any String (0 for EXIT):");
         scanf("%s",str);
         if(str[0]=='0')
             exit(1);
@@ -100,7 +100,7 @@ void main()
             }
             if(m==strlen(str) && strlen(str)==strlen(temp))
             {
-                printf("\nString %s can be Parsed !!!", str);
+                printf("String %s can be Parsed !!!", str);
                 break;
             }
         }
