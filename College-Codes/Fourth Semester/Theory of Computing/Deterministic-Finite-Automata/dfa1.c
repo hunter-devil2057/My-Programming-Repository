@@ -11,29 +11,40 @@ int n = 1;							// No. of final states
 
 void transition_q0(char input)
 {
-	if(input == inputs[0]) state = q1;
-	else if(input == inputs[1]) state = q3;
-	else state = -1;
+	if(input == inputs[0])
+        state = q1;
+	else if(input == inputs[1])
+        state = q3;
+	else
+        state = -1;
 }
 
 void transition_q1(char input)
 {
-	if(input == inputs[0]) state = q3;
-	else if(input == inputs[1]) state = q2;
-	else state = -1;
+	if(input == inputs[0])
+        state = q3;
+	else if(input == inputs[1])
+        state = q2;
+	else
+        state = -1;
 }
 
 void transition_q2(char input)
 {
-	if(input == inputs[0]) state = q2;
-	else if(input == inputs[1]) state = q2;
-	else state = -1;
+	if(input == inputs[0])
+        state = q2;
+	else if(input == inputs[1])
+        state = q2;
+	else
+        state = -1;
 }
 
 void transition_q3(char input)
 {
-	if(input == inputs[0]) state = q3;
-	else if(input == inputs[1]) state = q3;
+	if(input == inputs[0])
+        state = q3;
+	else if(input == inputs[1])
+        state = q3;
 	else state = -1;
 }
 
