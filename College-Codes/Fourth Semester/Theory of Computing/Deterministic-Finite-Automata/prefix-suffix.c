@@ -1,6 +1,5 @@
 // C program to find the prefix, suffix and substring
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 
 void findPrefix(char string[]);
