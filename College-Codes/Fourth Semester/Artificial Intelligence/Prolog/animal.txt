@@ -1,0 +1,8 @@
+General Knowledge: 
+    1.	Husky is a dog
+    2.	Rottweiler is a dog
+    3.	German Shepard is a dog
+    4.	Munchkin is a cat
+    5.	Every cat is an animal
+
+Goal: Dogs are animal.

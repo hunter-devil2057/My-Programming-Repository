@@ -1,0 +1,13 @@
+Given Knowledge: 
+    In a faculty of Bachelor of Science in Computer Science and Information Technology (B.Sc.CSIT),
+        1.	Manish studies Artificial Intelligence
+        2.	Sijan studies Artificial Intelligence
+        3.	Nishan studies Computer Networking
+        4.	Sanjay studies Operating System
+        5.	Santosh Sir Teaches Artificial Intelligence
+        6.	Bhim Sir teaches Computer Networking
+        7.	Bipin Sir teaches Operating System 
+        8.	Sujita Mam teaches Database Management System
+Goals:
+    1.	Who are studying which subject?
+    2.	Who are the students of the professor?
