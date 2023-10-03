@@ -45,7 +45,7 @@ int main()
     printf("Enter the message: ");
     scanf(" %[^\n]s", message);
 
-    printf("Enter the shift key (0-25): ");
+    printf("Enter the shift key (0-25):");
     scanf("%d", &shift);
 
     switch (choice)
