@@ -5,10 +5,13 @@
 #include <string.h>
 
 // Function to perform Shift Cipher encryption
-void encrypt(char message[], int shift) {
+void encrypt(char message[], int shift)
+{
     int length = strlen(message);
-    for (int i = 0; i < length; i++) {
-        if (isalpha(message[i])) {
+    for (int i = 0; i < length; i++)
+    {
+        if (isalpha(message[i]))
+        {
             char base = islower(message[i]) ? 'a' : 'A';
             message[i] = (message[i] - base + shift) % 26 + base;
         }
@@ -16,17 +19,21 @@ void encrypt(char message[], int shift) {
 }
 
 // Function to perform Shift Cipher decryption
-void decrypt(char message[], int shift) {
+void decrypt(char message[], int shift)
+{
     int length = strlen(message);
-    for (int i = 0; i < length; i++) {
-        if (isalpha(message[i])) {
+    for (int i = 0; i < length; i++)
+    {
+        if (isalpha(message[i]))
+        {
             char base = islower(message[i]) ? 'a' : 'A';
             message[i] = (message[i] - base - shift + 26) % 26 + base;
         }
     }
 }
 
-int main() {
+int main()
+{
     int shift, choice;
     char message[1000];
 
@@ -41,7 +48,8 @@ int main() {
     printf("Enter the shift key (0-25): ");
     scanf("%d", &shift);
 
-    switch (choice) {
+    switch (choice)
+    {
         case 1:
             encrypt(message, shift);
             printf("Encrypted message: %s\n", message);
@@ -54,5 +62,6 @@ int main() {
             printf("Invalid choice\n");
             break;
     }
+    printf("Student's Name: Manish Shiwakoti\nRoll No.: 26448/077");
     return 0;
 }
