@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Validation</title>
+</head>
+<body>
+    <form id="loginForm">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+        <input type="button" value="Login" onclick="validateLogin()">
+    </form>
+    <script>
+        function validateLogin() {
+            var username = document.getElementById('username').value;
+            var password = document.getElementById('password').value;
+            // Check if username is not empty
+            if (username.trim() === '') {
+                alert('Please enter a username.');
+                return;
+            }
+            // Check if password starts with a capital letter and ends with $
+            var pattern = /^[A-Z].*\$$/;
+            if (!pattern.test(password)) {
+                alert('Password must start with a capital letter and end with $.');
+                return;
+            }
+            // Validation successful, proceed with login
+            alert('Login successful!');
+            // Add logic here to proceed with the login process
+        }
+    </script>
+</body>
+</html>
