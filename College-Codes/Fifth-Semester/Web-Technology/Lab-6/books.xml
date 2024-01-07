@@ -1,0 +1,21 @@
+<books>
+    <book>
+        <title>Book 1</title>
+        <author>Author 1</author>
+        <price>2500</price>
+        <details>
+            <genre>Fiction</genre>
+            <publisher>Publisher A</publisher>
+        </details>
+    </book>
+    <book>
+        <title>Book 2</title>
+        <author>Author 2</author>
+        <price>3500</price>
+        <details>
+            <genre>Non-Fiction</genre>
+            <publisher>Publisher B</publisher>
+        </details>
+    </book>
+    <!-- Add more book entries as needed -->
+</books>
