@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Media Queries Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        /* Default styles for all screen sizes */
+        body {
+            font-size: 16px;
+            background-color: white;
+        }
+
+        /* Media query for screen width 500px */
+        @media screen and (max-width: 500px) {
+            body {
+                font-size: 10px;
+                background-color: blue;
+            }
+        }
+
+        /* Media query for screen width greater than 600px */
+        @media screen and (min-width: 600px) {
+            body {
+                font-size: 30px;
+                background-color: green;
+            }
+        }
+
+        /* Media query for screen width 900px */
+        @media screen and (min-width: 900px) {
+            body {
+                font-size: 20px;
+                background-color: red;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Media Queries Example</h1>
+    <p>Resize the window to see the changes in font size and background color!</p>
+</body>
+</html>
