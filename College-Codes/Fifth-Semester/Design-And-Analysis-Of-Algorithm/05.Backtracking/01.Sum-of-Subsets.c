@@ -40,6 +40,6 @@ int main()
     int subset[n];
     printf("Subsets for sum are:\n");
     subsetSum(0, n, set, sum, subset, 0);
-	 printf("\nName: Manish Shiwakoti\nT.U. Symbol No.: 26448/077");
+	 printf("Name: Manish Shiwakoti\nT.U. Symbol No.: 26448/077");
     return 0;
 }
