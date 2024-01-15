@@ -16,12 +16,12 @@ int main()
     // Making Decision
     if(hcf == 1)
     {
-    printf("%d and %d are CO-PRIME NUMBERS.", num1, num2);
+        printf("%d and %d are CO-PRIME NUMBERS.", num1, num2);
     }
     else
     {
-    printf("%d and %d are NOT CO-PRIME NUMBERS.", num1, num2);
+        printf("%d and %d are NOT CO-PRIME NUMBERS.", num1, num2);
     }
-    getch();
+    printf("\nStudent's Name: Manish Shiwakoti\nSymbol No.: 26448/077");
     return(0);
 }
