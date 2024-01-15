@@ -29,7 +29,6 @@ int phi(int n)
  return result;
 }
 
-// Driver program to test above function
 int main()
 {
     int n;
@@ -40,5 +39,6 @@ int main()
     {
         printf("phi(%d) = %d\n", i, phi(i));
     }
+    printf("Student's Name: Manish Shiwakoti\nT.U. Symbol No.: 26448/077");
  return 0;
 }
