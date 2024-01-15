@@ -29,5 +29,6 @@ int main()
     scanf("%d", &b);
     int g = gcdExtended(a, b, &x, &y);
     printf("gcd(%d, %d) = %d", a, b, g);
+    printf("Student's Name: Manish Shiwakoti\nT.U. Symbol No.: 26448/077");
     return 0;
 }
