@@ -1,3 +1,10 @@
+<!-- 
+    Create an application for user registration form using PHP.
+    a. Insert the value of the form after button click
+    b. Display the records in page
+    c. Delete the selected record of the list 
+    d. Update the selected record from the list
+ -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +12,6 @@
 </head>
 <body>
     <h2>User Registration Form</h2>
-    <!-- User Registration Form -->
     <form method="post">
         <label for="name">Name:</label>
         <input type="text" name="name" id="name" required><br><br>
@@ -14,9 +20,8 @@
         <input type="submit" name="submit" value="Register">
     </form>
     <?php
-    // Initialize user data array
     $users = [];
-    // Check if form is submitted
+    // Checking  if form is submitted or not 
     if (isset($_POST['submit'])) {
         $name = $_POST['name'];
         $email = $_POST['email'];
