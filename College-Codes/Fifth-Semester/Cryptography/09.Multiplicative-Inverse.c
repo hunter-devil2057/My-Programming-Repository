@@ -15,6 +15,7 @@ int main()
         }
     }
     multiplicativeInverse=multiplicativeInverse/num;
-    printf("Multiplicative inverse of %d is %d\n",num,multiplicativeInverse);
+    printf("Multiplicative inverse of %d is %d",num,multiplicativeInverse);
+    printf("\nStudent's Name: Manish Shiwakoti\nT.U. Symbol No.: 26448/077");
     return 0;
 }
