@@ -1,0 +1,16 @@
+Using SSH: git@github.com:hunter-devil2057/Complete-Java-Learning.git
+Using HTTPS: https://github.com/hunter-devil2057/Complete-Java-Learning.git
+
+Create a new repository on the command line
+echo "# Complete-Java-Learning" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hunter-devil2057/Complete-Java-Learning.git
+git push -u origin main
+
+Push an existing repository from the command line
+git remote add origin https://github.com/hunter-devil2057/Complete-Java-Learning.git
+git branch -M main
+git push -u origin main
