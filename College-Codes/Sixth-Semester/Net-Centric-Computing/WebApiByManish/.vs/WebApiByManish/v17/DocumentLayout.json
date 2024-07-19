@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\repository\\collegerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:repository\\collegerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\models\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:models\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\migrations\\20240707093601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:migrations\\20240707093601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapibymanish\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBCE93-CF15-477F-AC21-4702187DE7E8}|WebApiByManish.csproj|solutionrelative:controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240707093601_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Migrations\\20240707093601_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240707093601_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Migrations\\20240707093601_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240707093601_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:36:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:02:57.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollegeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Repository\\CollegeRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\CollegeRepo.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Repository\\CollegeRepo.cs",
+              "RelativeToolTip": "Repository\\CollegeRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:00:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:00:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollegeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Models\\CollegeDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CollegeDbContext.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Models\\CollegeDbContext.cs",
+              "RelativeToolTip": "Models\\CollegeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:53:45.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "College.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Models\\College.cs",
+              "RelativeDocumentMoniker": "Models\\College.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Models\\College.cs",
+              "RelativeToolTip": "Models\\College.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:52:54.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CollegeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Controllers\\CollegeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CollegeController.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApiByManish\\Controllers\\CollegeController.cs",
+              "RelativeToolTip": "Controllers\\CollegeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA9wCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:49:51.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

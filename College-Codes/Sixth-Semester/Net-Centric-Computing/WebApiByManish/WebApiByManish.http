@@ -1,0 +1,6 @@
+@WebApiByManish_HostAddress = http://localhost:5264
+
+GET {{WebApiByManish_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

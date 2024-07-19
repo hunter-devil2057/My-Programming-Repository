@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "MyRazorPage";
+    string Name = "Manish Shiwakoti";
+    var rollNo = 11; // Replace with your actual roll number
+    var multiplicationTable = rollNo + 1;
+}
+
+<h1>Welcome, @Name!</h1>
+<p>Current Date and Time: @DateTime.Now</p>
+<p>Your Roll No.: @rollNo</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Multiplication Table of @multiplicationTable</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 1; i <= 10; i++)
+        {
+            <tr>
+                <td>@multiplicationTable x @i = @(multiplicationTable * i)</td>
+            </tr>
+        }
+    </tbody>
+</table>

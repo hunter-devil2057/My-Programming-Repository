@@ -1,0 +1,8 @@
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.csproj.AssemblyReference.cache
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.AssemblyInfoInputs.cache
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.AssemblyInfo.cs
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.csproj.CoreCompileInputs.cache
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.RazorAssemblyInfo.cache
+C:\Users\Sheewakoti-Manish\source\repos\WebApp7ByManish\obj\Debug\net8.0\WebApp7ByManish.RazorAssemblyInfo.cs

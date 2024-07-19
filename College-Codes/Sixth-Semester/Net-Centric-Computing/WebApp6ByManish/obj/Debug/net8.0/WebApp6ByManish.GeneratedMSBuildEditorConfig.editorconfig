@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp6ByManish
+build_property.RootNamespace = WebApp6ByManish
+build_property.ProjectDir = C:\Users\Sheewakoti-Manish\source\repos\WebApp6ByManish\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Sheewakoti-Manish\source\repos\WebApp6ByManish
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Cookies/ReadCookies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llc1xSZWFkQ29va2llcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/HiddenField/HiddenFieldPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlkZGVuRmllbGRcSGlkZGVuRmllbGRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/HiddenField/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlkZGVuRmllbGRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/HttpContext/HttpContextPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHR0cENvbnRleHRcSHR0cENvbnRleHRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/HttpContext/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSHR0cENvbnRleHRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/QueryString/GetQueryString.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcnlTdHJpbmdcR2V0UXVlcnlTdHJpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/QueryString/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcnlTdHJpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Session/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Session/SessionPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxTZXNzaW9uUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/TempData/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcERhdGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/TempData/TempDataPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcERhdGFcVGVtcERhdGFQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sheewakoti-Manish/source/repos/WebApp6ByManish/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fnrrfi1z7t

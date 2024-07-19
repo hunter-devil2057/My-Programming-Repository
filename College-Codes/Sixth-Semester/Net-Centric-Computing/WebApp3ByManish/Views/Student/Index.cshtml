@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebApp3ByManish.Models.Student>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Student ID</th>
+            <th>Student Name</th>
+            <th>Student Address</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model != null)
+        {
+            foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.Id</td>
+                    <td>@student.Name</td>
+                    <td>@student.Address</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3">No students found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Create">Create Student</a>
+</div>
+<div>
+    <a asp-action="Edit">Edit Student</a>
+</div>
+<div>
+    <a asp-action="Delete">Delete Student</a>
+</div>

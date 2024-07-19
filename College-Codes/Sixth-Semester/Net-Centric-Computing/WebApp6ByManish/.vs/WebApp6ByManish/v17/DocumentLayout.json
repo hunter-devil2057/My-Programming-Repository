@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\cookies\\readcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\cookies\\readcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\cookies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\cookies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\tempdata\\tempdatapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\tempdata\\tempdatapage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\session\\sessionpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\session\\sessionpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\querystring\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\querystring\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\querystring\\getquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\querystring\\getquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\httpcontext\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\httpcontext\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\httpcontext\\httpcontextpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\httpcontext\\httpcontextpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\hiddenfield\\hiddenfieldpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\hiddenfield\\hiddenfieldpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp6bymanish\\views\\hiddenfield\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECBE1E61-D5F4-4FBD-8CBE-795276457F35}|WebApp6ByManish.csproj|solutionrelative:views\\hiddenfield\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetQueryString.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\QueryString\\GetQueryString.cshtml",
+              "RelativeDocumentMoniker": "Views\\QueryString\\GetQueryString.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\QueryString\\GetQueryString.cshtml",
+              "RelativeToolTip": "Views\\QueryString\\GetQueryString.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:37:45.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\QueryString\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\QueryString\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\QueryString\\Index.cshtml",
+              "RelativeToolTip": "Views\\QueryString\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:36:43.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Session\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Session\\Index.cshtml",
+              "RelativeToolTip": "Views\\Session\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:41:30.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Session\\SessionPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\SessionPage.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Session\\SessionPage.cshtml",
+              "RelativeToolTip": "Views\\Session\\SessionPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:40:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Cookies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cookies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Cookies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cookies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:22:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadCookies.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Cookies\\ReadCookies.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cookies\\ReadCookies.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\Cookies\\ReadCookies.cshtml",
+              "RelativeToolTip": "Views\\Cookies\\ReadCookies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:23:27.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HttpContext\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HttpContext\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HttpContext\\Index.cshtml",
+              "RelativeToolTip": "Views\\HttpContext\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:34:27.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpContextPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HttpContext\\HttpContextPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\HttpContext\\HttpContextPage.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HttpContext\\HttpContextPage.cshtml",
+              "RelativeToolTip": "Views\\HttpContext\\HttpContextPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:33:29.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TempDataPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\TempData\\TempDataPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\TempData\\TempDataPage.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\TempData\\TempDataPage.cshtml",
+              "RelativeToolTip": "Views\\TempData\\TempDataPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:43:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HiddenFieldPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HiddenField\\HiddenFieldPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\HiddenField\\HiddenFieldPage.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HiddenField\\HiddenFieldPage.cshtml",
+              "RelativeToolTip": "Views\\HiddenField\\HiddenFieldPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:30:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HiddenField\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HiddenField\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp6ByManish\\Views\\HiddenField\\Index.cshtml",
+              "RelativeToolTip": "Views\\HiddenField\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:31:22.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

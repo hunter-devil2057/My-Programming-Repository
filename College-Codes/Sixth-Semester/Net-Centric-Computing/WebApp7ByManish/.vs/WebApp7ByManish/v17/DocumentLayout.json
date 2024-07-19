@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\area\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:area\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\user\\member.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\user\\member.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\user\\member.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\user\\member.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\user\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\user\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\user\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\user\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp7bymanish\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F3B41B8-3327-4CDA-99E9-88843C5899E0}|WebApp7ByManish.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Area\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Area\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Area\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Area\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T05:08:50.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T01:49:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:45:49.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Member.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User\\Member.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Member.cshtml.cs",
+              "RelativeToolTip": "Pages\\User\\Member.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:42:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Member.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User\\Member.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Member.cshtml",
+              "RelativeToolTip": "Pages\\User\\Member.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:42:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\User\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:41:09.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:08:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Index.cshtml",
+              "RelativeToolTip": "Pages\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:40:40.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Admin.cshtml.cs",
+              "RelativeToolTip": "Pages\\User\\Admin.cshtml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:39:51.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\User\\Admin.cshtml",
+              "RelativeToolTip": "Pages\\User\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:39:26.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:31:31.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:31:00.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:27:37.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:27:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:25:12.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:22:54.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:23:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:21:10.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:19:51.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp7ByManish\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-08T01:18:39.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

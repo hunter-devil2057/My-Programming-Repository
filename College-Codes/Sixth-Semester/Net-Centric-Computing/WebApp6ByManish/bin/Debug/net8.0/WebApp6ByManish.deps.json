@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebApp6ByManish/1.0.0": {
+        "runtime": {
+          "WebApp6ByManish.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApp6ByManish/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
