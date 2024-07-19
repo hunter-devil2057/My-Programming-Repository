@@ -15,7 +15,7 @@ namespace NCCLabManish
             // Lambda Expression
             MyDel md2 = (x) =>
             {
-                Console.Write("Square Value is: ");
+                Console.Write("Thus, the Square Value is: ");
                 return x * x;
             };
             double square = md2(num);
