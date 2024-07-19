@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp5bymanish\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp5bymanish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp5bymanish\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp5bymanish\\models\\dbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|solutionrelative:models\\dbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp5bymanish\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|c:\\users\\sheewakoti-manish\\source\\repos\\webapp5bymanish\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D44E7E-69E2-4EA0-8FE9-083964DE3584}|WebApp5ByManish.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:18:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T10:18:21.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:25:15.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:16:25.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Models\\DbFirstContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbFirstContext.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Models\\DbFirstContext.cs",
+              "RelativeToolTip": "Models\\DbFirstContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:15:06.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sheewakoti-Manish\\source\\repos\\WebApp5ByManish\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:10:49.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
